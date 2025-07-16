@@ -12,16 +12,22 @@ public class TestController_SPY {
 	//mmmmmmmmmmmmmmmmmmmmm
 	//nnnnnnnnnnnnnnnnnnnn
 	//dddddddddddddddddddddddd
-	//여기이렇게
+<<<<<<< HEAD
 	//gghfghfhghghlklkjkjh
-	// 충돌 2222
 	//jkjkkkkjkjkjkj
+	//jkjjkjjkkjkkkjkjjkkj
 	//uuiiuiuuiiuuiuiiu
 	//kiioioijhjgxdedfd
+<<<<<<< main
 	// 저기 저렇게
 	//jkjjkjjkkjkkkjkjjkkj
 	//ㅁㅇㄴㄻㄴㅇㄻㄴㄹㅇ
 	//REVERT TEST
 	
 
+=======
+=======
+	// 충돌 2222
+>>>>>>> branch 'main' of https://github.com/spycode92/class5_2504-SPY.git
+>>>>>>> 0985b5b 충돌2해결
 }
